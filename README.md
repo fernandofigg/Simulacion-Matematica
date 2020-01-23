@@ -1,2 +1,4 @@
-# Simulacion-Matematica
-Programa primavera
+##### Archivo README
+Descripción del archivo
+
+Se puede escribir en $LaTeX$
